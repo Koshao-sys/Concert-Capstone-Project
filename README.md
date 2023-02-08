@@ -1,8 +1,11 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
   <br/>
+
+  <h3><b>Caribbean Rev Concert World Tour 2023</b></h3>
+
+</div>
 
 # 📗 Table of Contents
 
@@ -19,36 +22,42 @@
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 CARIBBEAN CONCERT <a name="about-project"></a>
+# 📖 [Portfolio Site] <a name="about-project"></a>
 
-<!-- > Describe your project in 1 or 2 sentences. -->
-
-**Caribbean Concert** is a project built purely on CSS, HTML, and Javascript for showing an upcoming concert wold tour in the caribbean. The website is an appreciation from Behance by Cindy Shin.
+**Caribbean Rev Concert World Tour 2023** is a entirely using CSS, HTML and JAVASCRIPT to show case an upcoming caribbean concert world tour featuring six guests.
 
 ## 🛠 Built With <a name="built-with"></a>
 
-- **HTML**
-- **CSS**
-- **JAVASCRIPT**
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html.com/">Html</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://web.dev/learn/css/">CSS</a></li>
+  </ul>
+    <ul>
+    <li><a href="#">Javascript</a></li>
+  </ul>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-<!-- > Describe between 1-3 key features of the application. -->
-
-- **Responsive Mobile Menu**
-- **Linked html pages**
-- **Dynamic content**
+- **Linked PAges**
+- **CSS File**
+- **.gitignore file**
+- **Browsing to other Menus**
+- **Dynamicall built elements**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,36 +72,62 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need: VS Code
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder: https://github.com/Koshao-sys/Concert-Capstone-Project.git
+
+<!--
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-<!-- > Mention all of the collaborators of this project. -->
 
-👤 **KOSHAO KAZUNGU GODFREY**
+👤 **Author1**
 
-- GitHub: [@Koshao-sys](https://github.com/Koshao-sys)
-- Twitter: [@KoshaoKG](https://twitter.com/KoshaoKG)
-- LinkedIn: [godfrey-kazungu](https://linkedin.com/in/godfrey-kazungu-b8b81b245)
+- GitHub: [@githubhandle](https://github.com/koshao-sys)
+- Twitter: [@twitterhandle](https://twitter.com/KoshaoKG)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/godfrey-kazungu-b8b81b245)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES --> 
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
- <!-- Describe 1 - 3 features you will add to the project. --> 
+> Describe 1 - 3 features you will add to the project.
 
-- **Concert Videos**
-- **Hall of Fame**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
+- [ ] **Concert Videos**
+- [ ] **Live Stream**
+- [ ] **Live chat**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +135,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Always leave a ⭐️ if you like this project and any of my other projects.
+If you like this project hit me up on my email: kkoshao99@gmail.com or Twitter up there
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,10 +143,25 @@ Always leave a ⭐️ if you like this project and any of my other projects.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-<!-- > Give credit to everyone who inspired your codebase. -->
+I would like to thank Cindy Shin from Behance for coming up with such a nice design Template
+I would like to thank my coding partners for the support and the great ideas shared.
 
-I would like to thank Cindy Shin from Behance for coming up with such a great a design template.
-I would like to thank my coding partners and standup team for the great advice towrds completion of this project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+- **How do you add an image in a span?**
+  - using the tag img
+
+- **How did you sort all the linterrors?**
+
+  - Read this to understand a linter for HTML and CSS(https://github.com/microverseinc/linters-config)
+
+- **How do you ignore files in your repository?**
+
+  - By adding there names to the .gitignore files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,6 +169,6 @@ I would like to thank my coding partners and standup team for the great advice t
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
