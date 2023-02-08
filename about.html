@@ -6,32 +6,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./style.css" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.lineicons.com/4.0/lineicons.css" />
 </head>
 <body>
+    <div class="top">
+        <ul>
+            <li><i class="lni lni-facebook-fill"></i></li>
+            <li><i class="lni lni-twitter-original"></i></li>
+            <li><span>Logout</span></li>
+            <li><span>Mypage</span></li>
+            <li><span>Korean</span></li>
+        </ul>
+    </div> 
     <div class="main-container">
-        <nav>
-            <div class="menu-icon">
-              <i class="fa fa-bars fa-2x"></i>
-            </div>
-            <div class="menu">
-              <ul>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Program</a></li>
-                <li><a href="#">Join</a></li>
-                <li><a href="#">Sponsor</a></li>
-                <li><a href="#">News</a></li>
-              </ul>
-            </div>
-        </nav>      
+        <div class="top-bar">
+            <nav>
+                <img class="close-menu" src="./images/x-solid.svg" alt="Close menu">
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+                <div class="menu-img-holder">
+                    <a href="./index.html"><img class="menu-logo" src="./images/logo.png" alt=""></a>
+                </div>
+                <div class="menu">
+                    <ul>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="#program">Program</a></li>
+                        <li><a href="#">Join</a></li>
+                        <li><a href="#sponsor">Sponsor</a></li>
+                        <li><a href="#">News</a></li>
+                        <li><a href="#">Rev Campaign</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </div>      
         <section class="about-main">
-            <div><h1><span class="about-header01">"Hello! Party People"</span><br><center><span class="about-header02">CARIBBEAN REV<br>CONCERT WORLD TOUR 2023</span></center></h1></div>
-            <div class="about-summary">
-                <p class="about-summary-para">The caribbean concert is an entertainment event featuring musical performances, typically of Caribbean music genres such as reggae, soca, calypso, salsa, and more. The concert will be held as a festival showcasing some of the best artists from the Caribbean region as well as local musicians. The atmosphere is lively, with a focus on dancing and celebrating Caribbean culture.</p>
+            <div>
+                <h1>
+                    <span class="about-header01">"Hello! Party People"</span>
+                <center>
+                    <span class="about-header02">CARIBBEAN CONCERT<br>REV WORLD TOUR 2023</span>
+                </center>
+                </h1>
             </div>
+            <center><div class="about-summary">
+                <p class="about-summary-para">The caribbean concert is an entertainment event featuring musical performances, typically of Caribbean music genres such as reggae, soca, calypso, salsa, and more. The concert will be held as a festival showcasing some of the best artists from the Caribbean region as well as local musicians. The atmosphere is lively, with a focus on dancing and celebrating Caribbean culture.</p>
+            </div></center>
             <div class="about-contact">
                 <p>Please contact us per Email for any further questions<br>about the Caribbean Concert 2023!</p>
-                <a href="#">kkoshao99@gmail.com</a>
+                <a href="#">kkoshao99@gmail.com</a><span class="arr"> ></span>
             </div>
         </section>
     </div>
@@ -39,25 +64,28 @@
         <h2>Caribbean Rev<br>Concert World Tour 2023 Logo</h2>
         <span></span>
         <p>The logo of the Caribbean Rev concert world tour 2023 was<br>decided through the logo competition from 8. june to 7. july.</p>
+        <p class="appear-fullwidth">After online public voting and Selection Committee's judging process, the logo from Sean Mavericks won the price.<br>After the consultation with Mr. Mavericks we optimized the prize-winning-logo for this year's summit as the following</p>
         <div class="logo-holder"><img src="./images/logo.png" alt=""></div>
     </div>
     <div class="past-events">
         <h2>See the past Caribbean Rev Concerts</h2>
         <center><span class="span-pastevents"></span></center>
         <p>Take a look at the last two Caribbean Rev Concerts which took place<br>in Buenos Aires and in Warsaw.</p>
-        <div class="imgholder-01">
-            <div class="img1-overlay">
-                <h2>2021</h2>
-                <p>Caribbean Rev Concert in Buenos Aires</p>
+        <div class="aboutimg-container">
+            <div class="imgholder-01">
+                <div class="img1-overlay">
+                    <h2>2021</h2>
+                    <p>Caribbean Rev Concert in Buenos Aires</p>
+                </div>
+                <img src="./images/image01.jpg" alt="" class="img01">
             </div>
-            <img src="./images/image01.jpg" alt="" class="img01">
-        </div>
-        <div class="imgholder-02">
-            <div class="img2-overlay">
-                <h2>2020</h2>
-                <p>Caribbean Rev Concert in Kingston</p>
+            <div class="imgholder-02">
+                <div class="img2-overlay">
+                    <h2>2020</h2>
+                    <p>Caribbean Rev Concert in Kingston</p>
+                </div>
+                <img src="./images/image02.webp" alt="" class="img02">
             </div>
-            <img src="./images/image02.webp" alt="" class="img02">
         </div>
     </div>
     <div class="partners">
@@ -77,5 +105,6 @@
         <div class="footer-imgholder"><img src="./images/logo.png" alt="" class="footer-logo"></div>
         <div><p>2023 Caribbean Rev Concert<br>Some Rights Reserved</p></div>
     </div>
+    <script type="text/javascript" src="./app.js"></script>
 </body>
 </html>
