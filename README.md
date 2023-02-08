@@ -58,8 +58,8 @@
 
 <!-- > Add a link to your deployed project. -->
 
-- [Live Demo Link](https://adholah96.github.io/climate-summit/)
-- [Video Link](https://www.loom.com/share/091dfd67fd6f422ea5949891d2340f0a)
+- [Live Demo Link](https://koshao-sys.github.io/Concert-Capstone-Project/)
+- [Video Link](https://www.loom.com/share/785ad8eda2174b59a67f53e359039337)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,9 +71,9 @@
 
 👤 **KOSHAO KAZUNGU GODFREY**
 
-- GitHub: [@adholah96](https://github.com/Koshao-sys)
-- Twitter: [@nerdy*me*](https://twitter.com/KoshaoKG)
-- LinkedIn: [heldricks-arthur](https://linkedin.com/in/godfrey-kazungu-b8b81b245)
+- GitHub: [@Koshao-sys](https://github.com/Koshao-sys)
+- Twitter: [@KoshaoKG](https://twitter.com/KoshaoKG)
+- LinkedIn: [godfrey-kazungu](https://linkedin.com/in/godfrey-kazungu-b8b81b245)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,8 +93,6 @@
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-<!-- Feel free to check the [issues page](../../issues/). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
