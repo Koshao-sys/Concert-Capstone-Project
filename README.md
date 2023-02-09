@@ -28,7 +28,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Portfolio Site] <a name="about-project"></a>
+# 📖 [Caribbean Rev Concert] <a name="about-project"></a>
 
 **Caribbean Rev Concert World Tour 2023** is a entirely using CSS, HTML and JAVASCRIPT to show case an upcoming caribbean concert world tour featuring six guests.
 
